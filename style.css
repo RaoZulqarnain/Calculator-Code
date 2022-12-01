@@ -1,0 +1,28 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(51, 48, 48);
+}
+.button{
+    width: 60px;
+    padding: 8px;
+    margin: 4px 2px;
+    color: rgb(12, 24, 24);
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.container{
+    text-align: center;
+}
+.input{
+    padding: 12px 6px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+}
